@@ -81,7 +81,7 @@ export default function ProductPage({ productData }) {
                 alt="QR Code"
                 width={250}
                 height={250}
-                style={{borderRadius: '8px'}}
+                style={{ maxWidth: '250px', width: '100%', height: 'auto' }}
                 onError={(e) => e.target.style.display = 'none'}
               />
             </div>
