@@ -1,0 +1,12 @@
+{
+  "name": "South Africa 15 days Unlimited Data (2GB high speed/day)",
+  "order_no": "YS-1023R-1",
+  "validity": "60 Days",
+  "iccid": "8997250230000405834F",
+  "apn": "internet",
+  "operator": "Cell C/Vodacom",
+  "sm_dp_addr": "tgt.toprsp.com", 
+  "activation_code": "CD742620364C43A4B76DFD42E3A9F2E3",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$tgt.toprsp.com$CD742620364C43A4B76DFD42E3A9F2E3",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=8997250230000405834F&token=ad0hr22wcf1wz8wf"
+}
