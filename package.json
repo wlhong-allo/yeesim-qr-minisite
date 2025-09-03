@@ -2,19 +2,19 @@
   "name": "qr-yeesim-co",
   "version": "1.0.0",
   "description": "YeeSIM eSIM QR Code Product Mini Site",
-  "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js",
-    "build": "echo 'Build complete'"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
-  },
-  "keywords": ["esim", "qr-code", "express"],
+  "devDependencies": {},
+  "keywords": ["esim", "qr-code", "nextjs"],
   "author": "YeeSIM",
   "license": "MIT"
 }
