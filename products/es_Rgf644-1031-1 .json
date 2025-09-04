@@ -1,0 +1,12 @@
+{
+  "name": "Hong Kong (China) & Macau (China) 5 days Unlmiited Data",
+  "order_no": "YS-1031R-1",
+  "validity": "60 Days",
+  "iccid": "89852312558523279600",
+  "apn": "CTExcel",
+  "operator": "Hong Kong：CSL Macau：中国电信",
+  "sm_dp_addr": "tgt.toprsp.com", 
+  "activation_code": "B3860783D3E94127BB90B04AAADC83C7",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$tgt.toprsp.com$B3860783D3E94127BB90B04AAADC83C7",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=89852312558523279600&token=81lvukfd4q8dwusd"
+}

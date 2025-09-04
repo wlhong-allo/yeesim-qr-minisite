@@ -20,7 +20,7 @@ export default function ProductPage({ productData }) {
   return (
     <>
       <Head>
-        <title>{name} - YeeSIM</title>
+        <title>{name ? `${name} - YeeSIM` : 'YeeSIM'}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <div style={{ 
