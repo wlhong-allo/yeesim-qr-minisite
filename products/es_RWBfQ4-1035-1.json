@@ -1,0 +1,12 @@
+{
+  "name": "Japan 15 days（Unlimited/Day) (DOCOMO) (AU)",
+  "order_no": "YS-1035R-1",
+  "validity": "60 days",
+  "iccid": "89810320250804108878",
+  "apn": "APN:vmobile.jp / MOBILE DATA:vmobile.jp / LTE SETUP:vmobile.jp",
+  "operator": "DOCOMO",
+  "sm_dp_addr": "tgt.toprsp.com",
+  "activation_code": "29E8419AFD70435D9754CE4B416F4B33",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$tgt.toprsp.com$29E8419AFD70435D9754CE4B416F4B33",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=89810320250804108878&token=58ioh8ujlgi94evr"
+}
