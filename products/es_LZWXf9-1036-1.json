@@ -1,0 +1,12 @@
+{
+  "name": "New Zealand 7days（Unlimited/day)",
+  "order_no": "YS-1036R-1",
+  "validity": "60 days",
+  "iccid": "8948010000044325595F",
+  "apn": "plus",
+  "operator": "New Zealand: Vodafone-3G/4G/5G, Spark-3G/4G/5G",
+  "sm_dp_addr": "tgt.toprsp.com",
+  "activation_code": "EB725EC36B7F48C5BD982E36C12E9080",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$tgt.toprsp.com$EB725EC36B7F48C5BD982E36C12E9080",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=8948010000044325595F&token=ad1ixk2y9llsib8k"
+}
