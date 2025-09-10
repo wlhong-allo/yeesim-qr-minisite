@@ -1,0 +1,12 @@
+{
+  "name": "Europe (31 areas) 3GB/15Days",
+  "order_no": "YS-1038R-1",
+  "validity": "60 days",
+  "iccid": "89852342022274530186",
+  "apn": "cmhk",
+  "operator": "T-mobile/Orange (H3G)/A1,Belgacom (Proximus)/Mobistar (Orange)/Orange (Mobistar)/Base,MOBILTEL/Yettel (Telenor),T-mobile/A1 Hrvatska (Vipnet)/Telemach (Tele2),EPIC (MTN Cyprus) / CYTA,Vodafone/T-mobile,TDC/Telia/Telenor,Tele2 / Elisa EMT,Alcom / Elisa / DNA,SFR / BOUYGUES / Orange,Vodafone / Telefonica O2,Vodafone / Cosmote (T-mobile)/Wind Hellas,Gibtel,Telenor / Vodafone,Siminn / Vodafone,Meteor / Hutchison,WIND / Vodafone / H3G / Iliad Italia/TIM,SIA BITE / Tele2,UAB BITE / Tele2,TANGO / P&T(POST) / Orange,Epic (Vodafone) / GO,Vodafone / KPN,Telia (Netcom) / Telenor,Polkomtel (Plus) / Orange / P4/T-mobile,TMN / Optimus (NOS) / Vodafone,Vodafone,Orange / Telefonica / Vodafone/Xfera ,Telenor / Tele2 / TeliaSonera,Telefonica O2 / Orange Slovensko,Telekom / Telemach (Tusmobil) / A1 (Si Mobile),Vodafone / Hutchison / EE / Telefonica,Sunrise / SALT (Orange)",
+  "sm_dp_addr": "rsp1.cmlink.com",
+  "activation_code": "551F47DD1970494F859EDABA70C66428",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$rsp1.cmlink.com$551F47DD1970494F859EDABA70C66428",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=89852342022274530186&token=nzspe1rwtbb7jtmq"
+}
