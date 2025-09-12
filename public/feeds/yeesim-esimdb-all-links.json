@@ -1,0 +1,2030 @@
+[
+  {
+    "name": "Japan",
+    "link": "https://yeesim.co/en/products/esim-japan",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "JP"
+    ]
+  },
+  {
+    "name": "South Korea",
+    "link": "https://yeesim.co/en/products/esim-south-korea",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "KR"
+    ]
+  },
+  {
+    "name": "China",
+    "link": "https://yeesim.co/en/products/esim-china",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "CN"
+    ]
+  },
+  {
+    "name": "China / Japan / South Korea",
+    "link": "https://yeesim.co/en/products/esim-china-japan-south-korea",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "CN",
+      "JP",
+      "KR"
+    ]
+  },
+  {
+    "name": "China / Hong Kong / Macau",
+    "link": "https://yeesim.co/en/products/esim-china-hongkong-macau",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "CN",
+      "HK",
+      "MO"
+    ]
+  },
+  {
+    "name": "Hong Kong / Macau",
+    "link": "https://yeesim.co/en/products/esim-hongkong-macau",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "HK",
+      "MO"
+    ]
+  },
+  {
+    "name": "Hong Kong",
+    "link": "https://yeesim.co/en/products/esim-hongkong",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "HK"
+    ]
+  },
+  {
+    "name": "Macau",
+    "link": "https://yeesim.co/en/products/esim-macau",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "MO"
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "link": "https://yeesim.co/en/products/esim-mongolia",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "MN"
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "link": "https://yeesim.co/en/products/esim-kazakhstan",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "KZ"
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "link": "https://yeesim.co/en/products/esim-malaysia",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "MY"
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "link": "https://yeesim.co/en/products/esim-vietnam",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "VN"
+    ]
+  },
+  {
+    "name": "Thailand",
+    "link": "https://yeesim.co/en/products/esim-thailand",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "TH"
+    ]
+  },
+  {
+    "name": "Singapore / Malaysia / Thailand",
+    "link": "https://yeesim.co/en/products/esim-singapore-malaysia-thailand",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "MY",
+      "SG",
+      "TH"
+    ]
+  },
+  {
+    "name": "Singapore",
+    "link": "https://yeesim.co/en/products/esim-singapore",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "SG"
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "link": "https://yeesim.co/en/products/esim-indonesia",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "ID"
+    ]
+  },
+  {
+    "name": "India",
+    "link": "https://yeesim.co/en/products/esim-india",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "IN"
+    ]
+  },
+  {
+    "name": "Philippines",
+    "link": "https://yeesim.co/en/products/esim-philippines",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "PH"
+    ]
+  },
+  {
+    "name": "Asia (7 areas)",
+    "link": "https://yeesim.co/en/products/esim-asia-7-areas",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "KH",
+      "ID",
+      "MY",
+      "PH",
+      "SG",
+      "TH",
+      "VN"
+    ]
+  },
+  {
+    "name": "Turkey",
+    "link": "https://yeesim.co/en/products/esim-turkey",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "TR"
+    ]
+  },
+  {
+    "name": "Qatar",
+    "link": "https://yeesim.co/en/products/esim-qatar",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "QA"
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "link": "https://yeesim.co/en/products/esim-saudi-arabia",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "SA"
+    ]
+  },
+  {
+    "name": "United Arab Emirates (UAE)",
+    "link": "https://yeesim.co/en/products/esim-united-arab-emirates-uae",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AE"
+    ]
+  },
+  {
+    "name": "Egypt",
+    "link": "https://yeesim.co/en/products/esim-egypt",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "EG"
+    ]
+  },
+  {
+    "name": "Oman",
+    "link": "https://yeesim.co/en/products/esim-oman",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "OM"
+    ]
+  },
+  {
+    "name": "Middle East (13 areas)",
+    "link": "https://yeesim.co/en/products/esim-middle-east-13-areas",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AM",
+      "AZ",
+      "BH",
+      "IL",
+      "JO",
+      "KW",
+      "OM",
+      "QA",
+      "SA",
+      "TR",
+      "AE"
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "link": "https://yeesim.co/en/products/esim-new-zealand",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "NZ"
+    ]
+  },
+  {
+    "name": "Australia",
+    "link": "https://yeesim.co/en/products/esim-australia",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AU",
+      "NZ"
+    ]
+  },
+  {
+    "name": "Australia / New Zealand",
+    "link": "https://yeesim.co/en/products/esim-australia-new-zealand",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AU",
+      "NZ"
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "link": "https://yeesim.co/en/products/esim-united-kingdom-great-britain",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "GB"
+    ]
+  },
+  {
+    "name": "Italy",
+    "link": "https://yeesim.co/en/products/esim-italy",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "IT"
+    ]
+  },
+  {
+    "name": "Germany",
+    "link": "https://yeesim.co/en/products/esim-germany",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "DE"
+    ]
+  },
+  {
+    "name": "Ireland",
+    "link": "https://yeesim.co/en/products/esim-ireland",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "IE"
+    ]
+  },
+  {
+    "name": "Portugal",
+    "link": "https://yeesim.co/en/products/esim-portugal",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "PT"
+    ]
+  },
+  {
+    "name": "Spain",
+    "link": "https://yeesim.co/en/products/esim-spain",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "ES"
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "link": "https://yeesim.co/en/products/esim-switzerland",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "CH"
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "link": "https://yeesim.co/en/products/esim-netherlands",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "NL"
+    ]
+  },
+  {
+    "name": "Iceland",
+    "link": "https://yeesim.co/en/products/esim-iceland",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "IS"
+    ]
+  },
+  {
+    "name": "Sweden",
+    "link": "https://yeesim.co/en/products/esim-sweden",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "SE"
+    ]
+  },
+  {
+    "name": "Greece",
+    "link": "https://yeesim.co/en/products/esim-greece",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "GR"
+    ]
+  },
+  {
+    "name": "France",
+    "link": "https://yeesim.co/en/products/esim-france",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "FR"
+    ]
+  },
+  {
+    "name": "United States",
+    "link": "https://yeesim.co/en/products/esim-united-states",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "US"
+    ]
+  },
+  {
+    "name": "Canada",
+    "link": "https://yeesim.co/en/products/esim-canada",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "CA"
+    ]
+  },
+  {
+    "name": "Caribbean (20+ areas)",
+    "link": "https://yeesim.co/en/products/esim-caribbean",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AI",
+      "AG",
+      "AR",
+      "BB",
+      "BO",
+      "BR",
+      "KY",
+      "CO",
+      "DM",
+      "DO",
+      "GF",
+      "GD",
+      "GP",
+      "JM",
+      "MS",
+      "AN",
+      "PY",
+      "PE",
+      "PR",
+      "KN",
+      "LC",
+      "VC",
+      "TC",
+      "UY",
+      "VG"
+    ]
+  },
+  {
+    "name": "Mexico",
+    "link": "https://yeesim.co/en/products/esim-mexico",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "MX"
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "link": "https://yeesim.co/en/products/esim-costa-rica",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "CR"
+    ]
+  },
+  {
+    "name": "Argentina",
+    "link": "https://yeesim.co/en/products/esim-argentina",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AR"
+    ]
+  },
+  {
+    "name": "Brazil",
+    "link": "https://yeesim.co/en/products/esim-brazil",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "BR"
+    ]
+  },
+  {
+    "name": "Colombia",
+    "link": "https://yeesim.co/en/products/esim-colombia",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "CO"
+    ]
+  },
+  {
+    "name": "Chile",
+    "link": "https://yeesim.co/en/products/esim-chile",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "CL"
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "link": "https://yeesim.co/en/products/esim-bolivia",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "BO"
+    ]
+  },
+  {
+    "name": "Peru",
+    "link": "https://yeesim.co/en/products/esim-peru",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "PE"
+    ]
+  },
+  {
+    "name": "South America (15+ areas)",
+    "link": "https://yeesim.co/en/products/esim-south-america-15-areas",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AR",
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "CR",
+      "EC",
+      "SV",
+      "MQ",
+      "GT",
+      "HN",
+      "NI",
+      "PA",
+      "PY",
+      "PE",
+      "PR",
+      "UY"
+    ]
+  },
+  {
+    "name": "South Africa",
+    "link": "https://yeesim.co/en/products/esim-south-africa",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "ZA"
+    ]
+  },
+  {
+    "name": "African (25+ areas)",
+    "link": "https://yeesim.co/en/products/esim-african-25-areas",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AF"
+    ]
+  },
+  {
+    "name": "Global (120+ areas)",
+    "link": "https://yeesim.co/en/products/esim-global-120-areas",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AL",
+      "AR",
+      "AM",
+      "AU",
+      "AT",
+      "AZ",
+      "BE",
+      "BO",
+      "BA",
+      "BW",
+      "BR",
+      "BG",
+      "CM",
+      "CA",
+      "CF",
+      "TD",
+      "CL",
+      "CN",
+      "CO",
+      "CR",
+      "CI",
+      "HR",
+      "CY",
+      "CZ",
+      "CD",
+      "DK",
+      "EC",
+      "EG",
+      "SV",
+      "EE",
+      "SZ",
+      "FI",
+      "FR",
+      "GA",
+      "DE",
+      "GH",
+      "GI",
+      "GR",
+      "GU",
+      "GT",
+      "GW",
+      "HN",
+      "HK",
+      "HU",
+      "IS",
+      "IN",
+      "ID",
+      "IE",
+      "IL",
+      "IT",
+      "JP",
+      "JO",
+      "KZ",
+      "KE",
+      "XK",
+      "KW",
+      "KG",
+      "LV",
+      "LR",
+      "LI",
+      "LT",
+      "LU",
+      "MO",
+      "MG",
+      "MW",
+      "MY",
+      "ML",
+      "MT",
+      "MU",
+      "MX",
+      "MD",
+      "MC",
+      "ME",
+      "MA",
+      "NL",
+      "NZ",
+      "NI",
+      "NE",
+      "NG",
+      "MK",
+      "NO",
+      "OM",
+      "PK",
+      "PA",
+      "PY",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PR",
+      "QA",
+      "CG",
+      "RO",
+      "RU",
+      "SA",
+      "SN",
+      "RS",
+      "SC",
+      "SG",
+      "SK",
+      "SI",
+      "ZA",
+      "KR",
+      "ES",
+      "LK",
+      "SE",
+      "CH",
+      "TW",
+      "TZ",
+      "TH",
+      "TN",
+      "TR",
+      "UG",
+      "UA",
+      "AE",
+      "GB",
+      "US",
+      "UY",
+      "UZ",
+      "ZM"
+    ]
+  },
+  {
+    "name": "Global (130+ areas)",
+    "link": "https://yeesim.co/en/products/esim-global-130-areas",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AX",
+      "AL",
+      "AR",
+      "AU",
+      "AT",
+      "AZ",
+      "BH",
+      "BD",
+      "BE",
+      "BO",
+      "BA",
+      "BW",
+      "BR",
+      "BN",
+      "BG",
+      "BF",
+      "KH",
+      "CM",
+      "CA",
+      "TD",
+      "CL",
+      "CN",
+      "CO",
+      "CR",
+      "CI",
+      "HR",
+      "CY",
+      "CZ",
+      "CD",
+      "DK",
+      "EC",
+      "EG",
+      "SV",
+      "EE",
+      "SZ",
+      "FI",
+      "FR",
+      "MQ",
+      "GA",
+      "GE",
+      "DE",
+      "GH",
+      "GI",
+      "GR",
+      "GT",
+      "HN",
+      "HK",
+      "HU",
+      "IS",
+      "IN",
+      "ID",
+      "IE",
+      "IM",
+      "IL",
+      "IT",
+      "JP",
+      "JE",
+      "JO",
+      "KZ",
+      "KE",
+      "XK",
+      "KW",
+      "KG",
+      "LV",
+      "LR",
+      "LI",
+      "LT",
+      "LU",
+      "MO",
+      "MG",
+      "MW",
+      "MY",
+      "ML",
+      "MT",
+      "MX",
+      "MD",
+      "MC",
+      "ME",
+      "MA",
+      "NL",
+      "NZ",
+      "NI",
+      "NE",
+      "NG",
+      "MK",
+      "NO",
+      "OM",
+      "PK",
+      "PA",
+      "PY",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PR",
+      "QA",
+      "CG",
+      "RE",
+      "RO",
+      "RU",
+      "SA",
+      "SN",
+      "RS",
+      "SC",
+      "SG",
+      "SK",
+      "SI",
+      "ZA",
+      "KR",
+      "ES",
+      "LK",
+      "SE",
+      "CH",
+      "TW",
+      "TZ",
+      "TH",
+      "TN",
+      "TR",
+      "UG",
+      "UA",
+      "AE",
+      "GB",
+      "US",
+      "UY",
+      "UZ",
+      "VN",
+      "ZM"
+    ]
+  },
+  {
+    "name": "Maldives",
+    "link": "https://yeesim.co/en/products/esim-maldives",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "MV"
+    ]
+  },
+  {
+    "name": "Guam",
+    "link": "https://yeesim.co/en/products/esim-guam",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "GU"
+    ]
+  },
+  {
+    "name": "Bali",
+    "link": "https://yeesim.co/en/products/esim-bali-dps",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "ID"
+    ]
+  },
+  {
+    "name": "Dubai",
+    "link": "https://yeesim.co/en/products/esim-dubai-dxb",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AE"
+    ]
+  },
+  {
+    "name": "Abu Dhabi",
+    "link": "https://yeesim.co/en/products/esim-abu-dhabi-auh",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AE"
+    ]
+  },
+  {
+    "name": "Bangkok",
+    "link": "https://yeesim.co/en/products/esim-bangkok-bkk",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "TH"
+    ]
+  },
+  {
+    "name": "Phuket",
+    "link": "https://yeesim.co/en/products/esim-phuket-hkt",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "TH"
+    ]
+  },
+  {
+    "name": "日本",
+    "link": "https://yeesim.co/zh-tw/products/esim-japan",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "JP"
+    ]
+  },
+  {
+    "name": "南韓",
+    "link": "https://yeesim.co/zh-tw/products/esim-south-korea",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "KR"
+    ]
+  },
+  {
+    "name": "中國",
+    "link": "https://yeesim.co/zh-tw/products/esim-china",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "CN"
+    ]
+  },
+  {
+    "name": "中國／日本／南韓",
+    "link": "https://yeesim.co/zh-tw/products/esim-china-japan-south-korea",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "CN",
+      "JP",
+      "KR"
+    ]
+  },
+  {
+    "name": "中國／香港／澳門",
+    "link": "https://yeesim.co/zh-tw/products/esim-china-hongkong-macau",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "CN",
+      "HK",
+      "MO"
+    ]
+  },
+  {
+    "name": "香港／澳門",
+    "link": "https://yeesim.co/zh-tw/products/esim-hongkong-macau",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "HK",
+      "MO"
+    ]
+  },
+  {
+    "name": "香港",
+    "link": "https://yeesim.co/zh-tw/products/esim-hongkong",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "HK"
+    ]
+  },
+  {
+    "name": "澳門",
+    "link": "https://yeesim.co/zh-tw/products/esim-macau",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "MO"
+    ]
+  },
+  {
+    "name": "蒙古",
+    "link": "https://yeesim.co/zh-tw/products/esim-mongolia",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "MN"
+    ]
+  },
+  {
+    "name": "哈薩克",
+    "link": "https://yeesim.co/zh-tw/products/esim-kazakhstan",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "KZ"
+    ]
+  },
+  {
+    "name": "馬來西亞",
+    "link": "https://yeesim.co/zh-tw/products/esim-malaysia",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "MY"
+    ]
+  },
+  {
+    "name": "越南",
+    "link": "https://yeesim.co/zh-tw/products/esim-vietnam",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "VN"
+    ]
+  },
+  {
+    "name": "泰國",
+    "link": "https://yeesim.co/zh-tw/products/esim-thailand",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "TH"
+    ]
+  },
+  {
+    "name": "新加坡／馬來西亞／泰國",
+    "link": "https://yeesim.co/zh-tw/products/esim-singapore-malaysia-thailand",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "MY",
+      "SG",
+      "TH"
+    ]
+  },
+  {
+    "name": "新加坡",
+    "link": "https://yeesim.co/zh-tw/products/esim-singapore",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "SG"
+    ]
+  },
+  {
+    "name": "印尼",
+    "link": "https://yeesim.co/zh-tw/products/esim-indonesia",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "ID"
+    ]
+  },
+  {
+    "name": "印度",
+    "link": "https://yeesim.co/zh-tw/products/esim-india",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "IN"
+    ]
+  },
+  {
+    "name": "菲律賓",
+    "link": "https://yeesim.co/zh-tw/products/esim-philippines",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "PH"
+    ]
+  },
+  {
+    "name": "亞洲（7地區）",
+    "link": "https://yeesim.co/zh-tw/products/esim-asia-7-areas",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "KH",
+      "ID",
+      "MY",
+      "PH",
+      "SG",
+      "TH",
+      "VN"
+    ]
+  },
+  {
+    "name": "土耳其",
+    "link": "https://yeesim.co/zh-tw/products/esim-turkey",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "TR"
+    ]
+  },
+  {
+    "name": "卡達",
+    "link": "https://yeesim.co/zh-tw/products/esim-qatar",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "QA"
+    ]
+  },
+  {
+    "name": "沙烏地阿拉伯",
+    "link": "https://yeesim.co/zh-tw/products/esim-saudi-arabia",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "SA"
+    ]
+  },
+  {
+    "name": "阿聯酋（UAE）",
+    "link": "https://yeesim.co/zh-tw/products/esim-united-arab-emirates-uae",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AE"
+    ]
+  },
+  {
+    "name": "埃及",
+    "link": "https://yeesim.co/zh-tw/products/esim-egypt",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "EG"
+    ]
+  },
+  {
+    "name": "阿曼",
+    "link": "https://yeesim.co/zh-tw/products/esim-oman",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "OM"
+    ]
+  },
+  {
+    "name": "中東（13地區）",
+    "link": "https://yeesim.co/zh-tw/products/esim-middle-east-13-areas",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AM",
+      "AZ",
+      "BH",
+      "IL",
+      "JO",
+      "KW",
+      "OM",
+      "QA",
+      "SA",
+      "TR",
+      "AE"
+    ]
+  },
+  {
+    "name": "紐西蘭",
+    "link": "https://yeesim.co/zh-tw/products/esim-new-zealand",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "NZ"
+    ]
+  },
+  {
+    "name": "澳洲",
+    "link": "https://yeesim.co/zh-tw/products/esim-australia",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AU",
+      "NZ"
+    ]
+  },
+  {
+    "name": "澳洲／紐西蘭",
+    "link": "https://yeesim.co/zh-tw/products/esim-australia-new-zealand",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AU",
+      "NZ"
+    ]
+  },
+  {
+    "name": "英國",
+    "link": "https://yeesim.co/zh-tw/products/esim-united-kingdom-great-britain",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "GB"
+    ]
+  },
+  {
+    "name": "義大利",
+    "link": "https://yeesim.co/zh-tw/products/esim-italy",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "IT"
+    ]
+  },
+  {
+    "name": "德國",
+    "link": "https://yeesim.co/zh-tw/products/esim-germany",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "DE"
+    ]
+  },
+  {
+    "name": "愛爾蘭",
+    "link": "https://yeesim.co/zh-tw/products/esim-ireland",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "IE"
+    ]
+  },
+  {
+    "name": "葡萄牙",
+    "link": "https://yeesim.co/zh-tw/products/esim-portugal",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "PT"
+    ]
+  },
+  {
+    "name": "西班牙",
+    "link": "https://yeesim.co/zh-tw/products/esim-spain",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "ES"
+    ]
+  },
+  {
+    "name": "瑞士",
+    "link": "https://yeesim.co/zh-tw/products/esim-switzerland",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "CH"
+    ]
+  },
+  {
+    "name": "荷蘭",
+    "link": "https://yeesim.co/zh-tw/products/esim-netherlands",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "NL"
+    ]
+  },
+  {
+    "name": "冰島",
+    "link": "https://yeesim.co/zh-tw/products/esim-iceland",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "IS"
+    ]
+  },
+  {
+    "name": "瑞典",
+    "link": "https://yeesim.co/zh-tw/products/esim-sweden",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "SE"
+    ]
+  },
+  {
+    "name": "希臘",
+    "link": "https://yeesim.co/zh-tw/products/esim-greece",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "GR"
+    ]
+  },
+  {
+    "name": "法國",
+    "link": "https://yeesim.co/zh-tw/products/esim-france",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "FR"
+    ]
+  },
+  {
+    "name": "美國",
+    "link": "https://yeesim.co/zh-tw/products/esim-united-states",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "US"
+    ]
+  },
+  {
+    "name": "加拿大",
+    "link": "https://yeesim.co/zh-tw/products/esim-canada",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "CA"
+    ]
+  },
+  {
+    "name": "加勒比海（20+地區）",
+    "link": "https://yeesim.co/zh-tw/products/esim-caribbean",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AI",
+      "AG",
+      "AR",
+      "BB",
+      "BO",
+      "BR",
+      "KY",
+      "CO",
+      "DM",
+      "DO",
+      "GF",
+      "GD",
+      "GP",
+      "JM",
+      "MS",
+      "AN",
+      "PY",
+      "PE",
+      "PR",
+      "KN",
+      "LC",
+      "VC",
+      "TC",
+      "UY",
+      "VG"
+    ]
+  },
+  {
+    "name": "墨西哥",
+    "link": "https://yeesim.co/zh-tw/products/esim-mexico",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "MX"
+    ]
+  },
+  {
+    "name": "哥斯大黎加",
+    "link": "https://yeesim.co/zh-tw/products/esim-costa-rica",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "CR"
+    ]
+  },
+  {
+    "name": "阿根廷",
+    "link": "https://yeesim.co/zh-tw/products/esim-argentina",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AR"
+    ]
+  },
+  {
+    "name": "巴西",
+    "link": "https://yeesim.co/zh-tw/products/esim-brazil",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "BR"
+    ]
+  },
+  {
+    "name": "哥倫比亞",
+    "link": "https://yeesim.co/zh-tw/products/esim-colombia",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "CO"
+    ]
+  },
+  {
+    "name": "智利",
+    "link": "https://yeesim.co/zh-tw/products/esim-chile",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "CL"
+    ]
+  },
+  {
+    "name": "玻利維亞",
+    "link": "https://yeesim.co/zh-tw/products/esim-bolivia",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "BO"
+    ]
+  },
+  {
+    "name": "秘魯",
+    "link": "https://yeesim.co/zh-tw/products/esim-peru",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "PE"
+    ]
+  },
+  {
+    "name": "南美洲（15+地區）",
+    "link": "https://yeesim.co/zh-tw/products/esim-south-america-15-areas",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AR",
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "CR",
+      "EC",
+      "SV",
+      "MQ",
+      "GT",
+      "HN",
+      "NI",
+      "PA",
+      "PY",
+      "PE",
+      "PR",
+      "UY"
+    ]
+  },
+  {
+    "name": "南非",
+    "link": "https://yeesim.co/zh-tw/products/esim-south-africa",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "ZA"
+    ]
+  },
+  {
+    "name": "非洲（25+地區）",
+    "link": "https://yeesim.co/zh-tw/products/esim-african-25-areas",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AF"
+    ]
+  },
+  {
+    "name": "全球（120+地區）",
+    "link": "https://yeesim.co/zh-tw/products/esim-global-120-areas",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AL",
+      "AR",
+      "AM",
+      "AU",
+      "AT",
+      "AZ",
+      "BE",
+      "BO",
+      "BA",
+      "BW",
+      "BR",
+      "BG",
+      "CM",
+      "CA",
+      "CF",
+      "TD",
+      "CL",
+      "CN",
+      "CO",
+      "CR",
+      "CI",
+      "HR",
+      "CY",
+      "CZ",
+      "CD",
+      "DK",
+      "EC",
+      "EG",
+      "SV",
+      "EE",
+      "SZ",
+      "FI",
+      "FR",
+      "GA",
+      "DE",
+      "GH",
+      "GI",
+      "GR",
+      "GU",
+      "GT",
+      "GW",
+      "HN",
+      "HK",
+      "HU",
+      "IS",
+      "IN",
+      "ID",
+      "IE",
+      "IL",
+      "IT",
+      "JP",
+      "JO",
+      "KZ",
+      "KE",
+      "XK",
+      "KW",
+      "KG",
+      "LV",
+      "LR",
+      "LI",
+      "LT",
+      "LU",
+      "MO",
+      "MG",
+      "MW",
+      "MY",
+      "ML",
+      "MT",
+      "MU",
+      "MX",
+      "MD",
+      "MC",
+      "ME",
+      "MA",
+      "NL",
+      "NZ",
+      "NI",
+      "NE",
+      "NG",
+      "MK",
+      "NO",
+      "OM",
+      "PK",
+      "PA",
+      "PY",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PR",
+      "QA",
+      "CG",
+      "RO",
+      "RU",
+      "SA",
+      "SN",
+      "RS",
+      "SC",
+      "SG",
+      "SK",
+      "SI",
+      "ZA",
+      "KR",
+      "ES",
+      "LK",
+      "SE",
+      "CH",
+      "TW",
+      "TZ",
+      "TH",
+      "TN",
+      "TR",
+      "UG",
+      "UA",
+      "AE",
+      "GB",
+      "US",
+      "UY",
+      "UZ",
+      "ZM"
+    ]
+  },
+  {
+    "name": "全球（130+地區）",
+    "link": "https://yeesim.co/zh-tw/products/esim-global-130-areas",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AX",
+      "AL",
+      "AR",
+      "AU",
+      "AT",
+      "AZ",
+      "BH",
+      "BD",
+      "BE",
+      "BO",
+      "BA",
+      "BW",
+      "BR",
+      "BN",
+      "BG",
+      "BF",
+      "KH",
+      "CM",
+      "CA",
+      "TD",
+      "CL",
+      "CN",
+      "CO",
+      "CR",
+      "CI",
+      "HR",
+      "CY",
+      "CZ",
+      "CD",
+      "DK",
+      "EC",
+      "EG",
+      "SV",
+      "EE",
+      "SZ",
+      "FI",
+      "FR",
+      "MQ",
+      "GA",
+      "GE",
+      "DE",
+      "GH",
+      "GI",
+      "GR",
+      "GT",
+      "HN",
+      "HK",
+      "HU",
+      "IS",
+      "IN",
+      "ID",
+      "IE",
+      "IM",
+      "IL",
+      "IT",
+      "JP",
+      "JE",
+      "JO",
+      "KZ",
+      "KE",
+      "XK",
+      "KW",
+      "KG",
+      "LV",
+      "LR",
+      "LI",
+      "LT",
+      "LU",
+      "MO",
+      "MG",
+      "MW",
+      "MY",
+      "ML",
+      "MT",
+      "MX",
+      "MD",
+      "MC",
+      "ME",
+      "MA",
+      "NL",
+      "NZ",
+      "NI",
+      "NE",
+      "NG",
+      "MK",
+      "NO",
+      "OM",
+      "PK",
+      "PA",
+      "PY",
+      "PE",
+      "PH",
+      "PL",
+      "PT",
+      "PR",
+      "QA",
+      "CG",
+      "RE",
+      "RO",
+      "RU",
+      "SA",
+      "SN",
+      "RS",
+      "SC",
+      "SG",
+      "SK",
+      "SI",
+      "ZA",
+      "KR",
+      "ES",
+      "LK",
+      "SE",
+      "CH",
+      "TW",
+      "TZ",
+      "TH",
+      "TN",
+      "TR",
+      "UG",
+      "UA",
+      "AE",
+      "GB",
+      "US",
+      "UY",
+      "UZ",
+      "VN",
+      "ZM"
+    ]
+  },
+  {
+    "name": "馬爾地夫",
+    "link": "https://yeesim.co/zh-tw/products/esim-maldives",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "MV"
+    ]
+  },
+  {
+    "name": "關島",
+    "link": "https://yeesim.co/zh-tw/products/esim-guam",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "GU"
+    ]
+  },
+  {
+    "name": "峇里島",
+    "link": "https://yeesim.co/zh-tw/products/esim-bali-dps",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "ID"
+    ]
+  },
+  {
+    "name": "杜拜",
+    "link": "https://yeesim.co/zh-tw/products/esim-dubai-dxb",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AE"
+    ]
+  },
+  {
+    "name": "阿布達比",
+    "link": "https://yeesim.co/zh-tw/products/esim-abu-dhabi-auh",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AE"
+    ]
+  },
+  {
+    "name": "曼谷",
+    "link": "https://yeesim.co/zh-tw/products/esim-bangkok-bkk",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "TH"
+    ]
+  },
+  {
+    "name": "普吉島",
+    "link": "https://yeesim.co/zh-tw/products/esim-phuket-hkt",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "TH"
+    ]
+  }
+]
