@@ -405,7 +405,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 17.0,
       "USD": 2.18
@@ -451,7 +451,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 39.0,
       "USD": 4.99
@@ -497,7 +497,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 61.0,
       "USD": 7.81
@@ -543,7 +543,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 85.0,
       "USD": 10.88
@@ -589,7 +589,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 119.0,
       "USD": 15.23
@@ -635,7 +635,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 174.0,
       "USD": 22.27
@@ -955,7 +955,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 25.0,
       "USD": 3.2
@@ -995,7 +995,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 27.0,
       "USD": 3.46
@@ -1035,7 +1035,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 41.0,
       "USD": 5.25
@@ -1075,7 +1075,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 56.0,
       "USD": 7.17
@@ -1115,7 +1115,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 78.0,
       "USD": 9.98
@@ -1155,7 +1155,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 116.0,
       "USD": 14.85
@@ -1569,7 +1569,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 31.0,
       "USD": 3.97
@@ -1615,7 +1615,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 94.0,
       "USD": 12.03
@@ -1661,7 +1661,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 156.0,
       "USD": 19.97
@@ -1707,7 +1707,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 218.0,
       "USD": 27.9
@@ -1753,7 +1753,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 312.0,
       "USD": 39.94
@@ -1799,7 +1799,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 437.0,
       "USD": 55.94
@@ -2171,7 +2171,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 113.0,
       "USD": 14.46
@@ -2233,7 +2233,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 336.0,
       "USD": 43.01
@@ -2295,7 +2295,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 560.0,
       "USD": 71.68
@@ -2357,7 +2357,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 783.0,
       "USD": 100.22
@@ -2419,7 +2419,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 1118.0,
       "USD": 143.1
@@ -2481,7 +2481,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 1565.0,
       "USD": 200.32
@@ -2929,7 +2929,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 66.0,
       "USD": 8.45
@@ -2985,7 +2985,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 196.0,
       "USD": 25.09
@@ -3041,7 +3041,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 326.0,
       "USD": 41.73
@@ -3097,7 +3097,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 456.0,
       "USD": 58.37
@@ -3153,7 +3153,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 650.0,
       "USD": 83.2
@@ -3209,7 +3209,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 910.0,
       "USD": 116.48
@@ -3479,7 +3479,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 15.0,
       "USD": 1.92
@@ -3524,7 +3524,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 34.0,
       "USD": 4.35
@@ -3569,7 +3569,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 51.0,
       "USD": 6.53
@@ -3614,7 +3614,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 70.0,
       "USD": 8.96
@@ -3659,7 +3659,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 99.0,
       "USD": 12.67
@@ -3704,7 +3704,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 145.0,
       "USD": 18.56
@@ -4010,7 +4010,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 42.0,
       "USD": 5.38
@@ -4044,7 +4044,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 125.0,
       "USD": 16.0
@@ -4078,7 +4078,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 208.0,
       "USD": 26.62
@@ -4112,7 +4112,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 291.0,
       "USD": 37.25
@@ -4146,7 +4146,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 416.0,
       "USD": 53.25
@@ -4180,7 +4180,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 582.0,
       "USD": 74.5
@@ -4452,7 +4452,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 29.0,
       "USD": 3.71
@@ -4486,7 +4486,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 85.0,
       "USD": 10.88
@@ -4520,7 +4520,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 144.0,
       "USD": 18.43
@@ -4554,7 +4554,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 201.0,
       "USD": 25.73
@@ -4588,7 +4588,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 286.0,
       "USD": 36.61
@@ -4622,7 +4622,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 400.0,
       "USD": 51.2
@@ -4928,7 +4928,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 68.0,
       "USD": 8.7
@@ -4962,7 +4962,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 203.0,
       "USD": 25.98
@@ -4996,7 +4996,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 338.0,
       "USD": 43.26
@@ -5030,7 +5030,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 473.0,
       "USD": 60.54
@@ -5064,7 +5064,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 676.0,
       "USD": 86.53
@@ -5098,7 +5098,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 946.0,
       "USD": 121.09
@@ -5458,7 +5458,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 45.0,
       "USD": 5.76
@@ -5498,7 +5498,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 133.0,
       "USD": 17.02
@@ -5538,7 +5538,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 222.0,
       "USD": 28.42
@@ -5578,7 +5578,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 310.0,
       "USD": 39.68
@@ -5618,7 +5618,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 442.0,
       "USD": 56.58
@@ -5658,7 +5658,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 619.0,
       "USD": 79.23
@@ -6018,7 +6018,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 17.0,
       "USD": 2.18
@@ -6058,7 +6058,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 44.0,
       "USD": 5.63
@@ -6098,7 +6098,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 70.0,
       "USD": 8.96
@@ -6138,7 +6138,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 94.0,
       "USD": 12.03
@@ -6178,7 +6178,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 133.0,
       "USD": 17.02
@@ -6218,7 +6218,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 199.0,
       "USD": 25.47
@@ -6538,7 +6538,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 42.0,
       "USD": 5.38
@@ -6578,7 +6578,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 125.0,
       "USD": 16.0
@@ -6618,7 +6618,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 208.0,
       "USD": 26.62
@@ -6658,7 +6658,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 291.0,
       "USD": 37.25
@@ -6698,7 +6698,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 416.0,
       "USD": 53.25
@@ -6738,7 +6738,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 582.0,
       "USD": 74.5
@@ -7182,7 +7182,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 52.0,
       "USD": 6.66
@@ -7256,7 +7256,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 156.0,
       "USD": 19.97
@@ -7330,7 +7330,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 260.0,
       "USD": 33.28
@@ -7404,7 +7404,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 364.0,
       "USD": 46.59
@@ -7478,7 +7478,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 520.0,
       "USD": 66.56
@@ -7552,7 +7552,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 728.0,
       "USD": 93.18
@@ -7872,7 +7872,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 47.0,
       "USD": 6.02
@@ -7912,7 +7912,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 140.0,
       "USD": 17.92
@@ -7952,7 +7952,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 234.0,
       "USD": 29.95
@@ -7992,7 +7992,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 328.0,
       "USD": 41.98
@@ -8032,7 +8032,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 468.0,
       "USD": 59.9
@@ -8072,7 +8072,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 655.0,
       "USD": 83.84
@@ -8344,7 +8344,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 42.0,
       "USD": 5.38
@@ -8378,7 +8378,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 125.0,
       "USD": 16.0
@@ -8412,7 +8412,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 208.0,
       "USD": 26.62
@@ -8446,7 +8446,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 291.0,
       "USD": 37.25
@@ -8480,7 +8480,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 416.0,
       "USD": 53.25
@@ -8514,7 +8514,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 582.0,
       "USD": 74.5
@@ -8794,7 +8794,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 46.0,
       "USD": 5.89
@@ -8834,7 +8834,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 121.0,
       "USD": 15.49
@@ -8874,7 +8874,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 196.0,
       "USD": 25.09
@@ -8914,7 +8914,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 271.0,
       "USD": 34.69
@@ -8954,7 +8954,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 383.0,
       "USD": 49.02
@@ -8994,7 +8994,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 572.0,
       "USD": 73.22
@@ -9354,7 +9354,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 19.0,
       "USD": 2.43
@@ -9394,7 +9394,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 51.0,
       "USD": 6.53
@@ -9434,7 +9434,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 80.0,
       "USD": 10.24
@@ -9474,7 +9474,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 111.0,
       "USD": 14.21
@@ -9514,7 +9514,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 155.0,
       "USD": 19.84
@@ -9554,7 +9554,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 230.0,
       "USD": 29.44
@@ -10464,7 +10464,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 78.0,
       "USD": 9.98
@@ -10594,7 +10594,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 234.0,
       "USD": 29.95
@@ -10724,7 +10724,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 390.0,
       "USD": 49.92
@@ -10854,7 +10854,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 546.0,
       "USD": 69.89
@@ -10984,7 +10984,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 780.0,
       "USD": 99.84
@@ -11114,7 +11114,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 1092.0,
       "USD": 139.78
@@ -13202,7 +13202,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 15.0,
       "USD": 1.92
@@ -13236,7 +13236,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 34.0,
       "USD": 4.35
@@ -13270,7 +13270,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 56.0,
       "USD": 7.17
@@ -13304,7 +13304,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 75.0,
       "USD": 9.6
@@ -13338,7 +13338,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 104.0,
       "USD": 13.31
@@ -13372,7 +13372,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 155.0,
       "USD": 19.84
@@ -13652,7 +13652,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 177.0,
       "USD": 22.66
@@ -13692,7 +13692,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 530.0,
       "USD": 67.84
@@ -13732,7 +13732,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 884.0,
       "USD": 113.15
@@ -13772,7 +13772,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 1238.0,
       "USD": 158.46
@@ -13812,7 +13812,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 1768.0,
       "USD": 226.3
@@ -13852,7 +13852,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 2475.0,
       "USD": 316.8
@@ -14090,7 +14090,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 29.0,
       "USD": 3.71
@@ -14124,7 +14124,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 78.0,
       "USD": 9.98
@@ -14158,7 +14158,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 126.0,
       "USD": 16.13
@@ -14192,7 +14192,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 174.0,
       "USD": 22.27
@@ -14226,7 +14226,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 247.0,
       "USD": 31.62
@@ -14260,7 +14260,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 368.0,
       "USD": 47.1
@@ -14532,7 +14532,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 29.0,
       "USD": 3.71
@@ -14566,7 +14566,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 78.0,
       "USD": 9.98
@@ -14600,7 +14600,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 126.0,
       "USD": 16.13
@@ -14634,7 +14634,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 174.0,
       "USD": 22.27
@@ -14668,7 +14668,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 247.0,
       "USD": 31.62
@@ -14702,7 +14702,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 368.0,
       "USD": 47.1
@@ -14940,7 +14940,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 73.0,
       "USD": 9.34
@@ -14974,7 +14974,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 218.0,
       "USD": 27.9
@@ -15008,7 +15008,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 364.0,
       "USD": 46.59
@@ -15042,7 +15042,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 510.0,
       "USD": 65.28
@@ -15076,7 +15076,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 728.0,
       "USD": 93.18
@@ -15110,7 +15110,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 1019.0,
       "USD": 130.43
@@ -15390,7 +15390,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 34.0,
       "USD": 4.35
@@ -15430,7 +15430,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 92.0,
       "USD": 11.78
@@ -15470,7 +15470,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 153.0,
       "USD": 19.58
@@ -15510,7 +15510,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 211.0,
       "USD": 27.01
@@ -15550,7 +15550,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 298.0,
       "USD": 38.14
@@ -15590,7 +15590,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 446.0,
       "USD": 57.09
@@ -16316,7 +16316,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 17.0,
       "USD": 2.18
@@ -16350,7 +16350,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 41.0,
       "USD": 5.25
@@ -16384,7 +16384,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 65.0,
       "USD": 8.32
@@ -16418,7 +16418,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 90.0,
       "USD": 11.52
@@ -16452,7 +16452,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 128.0,
       "USD": 16.38
@@ -16486,7 +16486,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 189.0,
       "USD": 24.19
@@ -16801,7 +16801,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 17.0,
       "USD": 2.18
@@ -16846,7 +16846,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 41.0,
       "USD": 5.25
@@ -16891,7 +16891,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 65.0,
       "USD": 8.32
@@ -16936,7 +16936,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 90.0,
       "USD": 11.52
@@ -16981,7 +16981,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 128.0,
       "USD": 16.38
@@ -17026,7 +17026,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 189.0,
       "USD": 24.19
@@ -17341,7 +17341,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 17.0,
       "USD": 2.18
@@ -17386,7 +17386,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 41.0,
       "USD": 5.25
@@ -17431,7 +17431,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 65.0,
       "USD": 8.32
@@ -17476,7 +17476,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 90.0,
       "USD": 11.52
@@ -17521,7 +17521,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 128.0,
       "USD": 16.38
@@ -17566,7 +17566,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 189.0,
       "USD": 24.19
@@ -17980,7 +17980,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 31.0,
       "USD": 3.97
@@ -18026,7 +18026,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 94.0,
       "USD": 12.03
@@ -18072,7 +18072,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 156.0,
       "USD": 19.97
@@ -18118,7 +18118,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 218.0,
       "USD": 27.9
@@ -18164,7 +18164,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 312.0,
       "USD": 39.94
@@ -18210,7 +18210,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 437.0,
       "USD": 55.94
@@ -18578,7 +18578,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 31.0,
       "USD": 3.97
@@ -18624,7 +18624,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 94.0,
       "USD": 12.03
@@ -18670,7 +18670,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 156.0,
       "USD": 19.97
@@ -18716,7 +18716,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 218.0,
       "USD": 27.9
@@ -18762,7 +18762,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 312.0,
       "USD": 39.94
@@ -18808,7 +18808,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 437.0,
       "USD": 55.94
@@ -19128,7 +19128,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 31.0,
       "USD": 3.97
@@ -19168,7 +19168,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 94.0,
       "USD": 12.03
@@ -19208,7 +19208,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 156.0,
       "USD": 19.97
@@ -19248,7 +19248,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 218.0,
       "USD": 27.9
@@ -19288,7 +19288,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 312.0,
       "USD": 39.94
@@ -19328,7 +19328,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 437.0,
       "USD": 55.94
@@ -19650,7 +19650,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 40.0,
       "USD": 5.12
@@ -19696,7 +19696,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 118.0,
       "USD": 15.1
@@ -19742,7 +19742,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 196.0,
       "USD": 25.09
@@ -19788,7 +19788,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 274.0,
       "USD": 35.07
@@ -19834,7 +19834,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 390.0,
       "USD": 49.92
@@ -19880,7 +19880,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 546.0,
       "USD": 69.89
@@ -20156,7 +20156,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 40.0,
       "USD": 5.12
@@ -20202,7 +20202,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 118.0,
       "USD": 15.1
@@ -20248,7 +20248,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 196.0,
       "USD": 25.09
@@ -20294,7 +20294,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 274.0,
       "USD": 35.07
@@ -20340,7 +20340,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 390.0,
       "USD": 49.92
@@ -20386,7 +20386,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 546.0,
       "USD": 69.89
@@ -20802,7 +20802,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 26.0,
       "USD": 3.33
@@ -20854,7 +20854,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 78.0,
       "USD": 9.98
@@ -20906,7 +20906,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 130.0,
       "USD": 16.64
@@ -20958,7 +20958,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 182.0,
       "USD": 23.3
@@ -21010,7 +21010,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 260.0,
       "USD": 33.28
@@ -21062,7 +21062,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 364.0,
       "USD": 46.59
@@ -21422,7 +21422,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 31.0,
       "USD": 3.97
@@ -21462,7 +21462,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 94.0,
       "USD": 12.03
@@ -21502,7 +21502,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 156.0,
       "USD": 19.97
@@ -21542,7 +21542,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 218.0,
       "USD": 27.9
@@ -21582,7 +21582,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 312.0,
       "USD": 39.94
@@ -21622,7 +21622,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 437.0,
       "USD": 55.94
@@ -21902,7 +21902,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 40.0,
       "USD": 5.12
@@ -21942,7 +21942,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 118.0,
       "USD": 15.1
@@ -21982,7 +21982,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 196.0,
       "USD": 25.09
@@ -22022,7 +22022,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 274.0,
       "USD": 35.07
@@ -22062,7 +22062,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 390.0,
       "USD": 49.92
@@ -22102,7 +22102,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 546.0,
       "USD": 69.89
@@ -22654,7 +22654,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 40.0,
       "USD": 5.12
@@ -22706,7 +22706,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 118.0,
       "USD": 15.1
@@ -22758,7 +22758,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 196.0,
       "USD": 25.09
@@ -22810,7 +22810,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 274.0,
       "USD": 35.07
@@ -22862,7 +22862,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 390.0,
       "USD": 49.92
@@ -22914,7 +22914,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 546.0,
       "USD": 69.89
@@ -23274,7 +23274,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 40.0,
       "USD": 5.12
@@ -23314,7 +23314,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 118.0,
       "USD": 15.1
@@ -23354,7 +23354,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 196.0,
       "USD": 25.09
@@ -23394,7 +23394,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 274.0,
       "USD": 35.07
@@ -23434,7 +23434,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 390.0,
       "USD": 49.92
@@ -23474,7 +23474,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 546.0,
       "USD": 69.89
@@ -23842,7 +23842,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 31.0,
       "USD": 3.97
@@ -23888,7 +23888,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 94.0,
       "USD": 12.03
@@ -23934,7 +23934,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 156.0,
       "USD": 19.97
@@ -23980,7 +23980,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 218.0,
       "USD": 27.9
@@ -24026,7 +24026,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 312.0,
       "USD": 39.94
@@ -24072,7 +24072,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 437.0,
       "USD": 55.94
@@ -24432,7 +24432,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 17.0,
       "USD": 2.18
@@ -24472,7 +24472,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 44.0,
       "USD": 5.63
@@ -24512,7 +24512,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 70.0,
       "USD": 8.96
@@ -24552,7 +24552,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 97.0,
       "USD": 12.42
@@ -24592,7 +24592,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 136.0,
       "USD": 17.41
@@ -24632,7 +24632,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 201.0,
       "USD": 25.73
@@ -24904,7 +24904,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 34.0,
       "USD": 4.35
@@ -24938,7 +24938,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 92.0,
       "USD": 11.78
@@ -24972,7 +24972,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 153.0,
       "USD": 19.58
@@ -25006,7 +25006,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 211.0,
       "USD": 27.01
@@ -25040,7 +25040,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 298.0,
       "USD": 38.14
@@ -25074,7 +25074,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 446.0,
       "USD": 57.09
@@ -26432,7 +26432,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 34.0,
       "USD": 4.35
@@ -26472,7 +26472,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 92.0,
       "USD": 11.78
@@ -26512,7 +26512,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 153.0,
       "USD": 19.58
@@ -26552,7 +26552,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 211.0,
       "USD": 27.01
@@ -26592,7 +26592,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 298.0,
       "USD": 38.14
@@ -26632,7 +26632,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 446.0,
       "USD": 57.09
@@ -26872,7 +26872,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 208.0,
       "USD": 26.62
@@ -26912,7 +26912,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 624.0,
       "USD": 79.87
@@ -26952,7 +26952,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 1040.0,
       "USD": 133.12
@@ -26992,7 +26992,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 1456.0,
       "USD": 186.37
@@ -27032,7 +27032,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 2080.0,
       "USD": 266.24
@@ -27072,7 +27072,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 2912.0,
       "USD": 372.74
@@ -27392,7 +27392,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 56.0,
       "USD": 7.17
@@ -27432,7 +27432,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 153.0,
       "USD": 19.58
@@ -27472,7 +27472,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 249.0,
       "USD": 31.87
@@ -27512,7 +27512,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 346.0,
       "USD": 44.29
@@ -27552,7 +27552,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 492.0,
       "USD": 62.98
@@ -27592,7 +27592,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 734.0,
       "USD": 93.95
@@ -27960,7 +27960,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 56.0,
       "USD": 7.17
@@ -28006,7 +28006,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 153.0,
       "USD": 19.58
@@ -28052,7 +28052,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 249.0,
       "USD": 31.87
@@ -28098,7 +28098,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 346.0,
       "USD": 44.29
@@ -28144,7 +28144,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 492.0,
       "USD": 62.98
@@ -28190,7 +28190,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 734.0,
       "USD": 93.95
@@ -28428,7 +28428,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 123.0,
       "USD": 15.74
@@ -28462,7 +28462,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 371.0,
       "USD": 47.49
@@ -28496,7 +28496,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 617.0,
       "USD": 78.98
@@ -28530,7 +28530,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 865.0,
       "USD": 110.72
@@ -28564,7 +28564,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 1236.0,
       "USD": 158.21
@@ -28598,7 +28598,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 1730.0,
       "USD": 221.44
@@ -28966,7 +28966,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 56.0,
       "USD": 7.17
@@ -29012,7 +29012,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 153.0,
       "USD": 19.58
@@ -29058,7 +29058,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 249.0,
       "USD": 31.87
@@ -29104,7 +29104,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 346.0,
       "USD": 44.29
@@ -29150,7 +29150,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 492.0,
       "USD": 62.98
@@ -29196,7 +29196,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 734.0,
       "USD": 93.95
@@ -29700,7 +29700,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 56.0,
       "USD": 7.17
@@ -29746,7 +29746,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 153.0,
       "USD": 19.58
@@ -29792,7 +29792,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 249.0,
       "USD": 31.87
@@ -29838,7 +29838,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 346.0,
       "USD": 44.29
@@ -29884,7 +29884,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 492.0,
       "USD": 62.98
@@ -29930,7 +29930,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 734.0,
       "USD": 93.95
@@ -31450,7 +31450,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 31.0,
       "USD": 3.97
@@ -31484,7 +31484,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 85.0,
       "USD": 10.88
@@ -31518,7 +31518,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 138.0,
       "USD": 17.66
@@ -31552,7 +31552,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 191.0,
       "USD": 24.45
@@ -31586,7 +31586,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 271.0,
       "USD": 34.69
@@ -31620,7 +31620,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 402.0,
       "USD": 51.46
@@ -31824,7 +31824,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 180.0,
       "USD": 23.04
@@ -31858,7 +31858,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 539.0,
       "USD": 68.99
@@ -31892,7 +31892,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 898.0,
       "USD": 114.94
@@ -31926,7 +31926,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 1255.0,
       "USD": 160.64
@@ -31960,7 +31960,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 1794.0,
       "USD": 229.63
@@ -31994,7 +31994,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 2512.0,
       "USD": 321.54
@@ -47746,7 +47746,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 42.0,
       "USD": 5.38
@@ -47780,7 +47780,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 125.0,
       "USD": 16.0
@@ -47814,7 +47814,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 208.0,
       "USD": 26.62
@@ -47848,7 +47848,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 291.0,
       "USD": 37.25
@@ -47882,7 +47882,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 416.0,
       "USD": 53.25
@@ -47916,7 +47916,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 582.0,
       "USD": 74.5
@@ -48210,7 +48210,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 29.0,
       "USD": 3.71
@@ -48244,7 +48244,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 78.0,
       "USD": 9.98
@@ -48278,7 +48278,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 126.0,
       "USD": 16.13
@@ -48312,7 +48312,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 174.0,
       "USD": 22.27
@@ -48346,7 +48346,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 247.0,
       "USD": 31.62
@@ -48380,7 +48380,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 368.0,
       "USD": 47.1
@@ -48584,7 +48584,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 29.0,
       "USD": 3.71
@@ -48618,7 +48618,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 78.0,
       "USD": 9.98
@@ -48652,7 +48652,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 126.0,
       "USD": 16.13
@@ -48686,7 +48686,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 174.0,
       "USD": 22.27
@@ -48720,7 +48720,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 247.0,
       "USD": 31.62
@@ -48754,7 +48754,7 @@
     "validity": 15,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 368.0,
       "USD": 47.1
@@ -49074,7 +49074,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 42.0,
       "USD": 5.38
@@ -49114,7 +49114,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 125.0,
       "USD": 16.0
@@ -49154,7 +49154,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 208.0,
       "USD": 26.62
@@ -49194,7 +49194,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 291.0,
       "USD": 37.25
@@ -49234,7 +49234,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 416.0,
       "USD": 53.25
@@ -49274,7 +49274,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 582.0,
       "USD": 74.5
@@ -49506,7 +49506,7 @@
     "validity": 1,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 42.0,
       "USD": 5.38
@@ -49546,7 +49546,7 @@
     "validity": 3,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 125.0,
       "USD": 16.0
@@ -49586,7 +49586,7 @@
     "validity": 5,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 208.0,
       "USD": 26.62
@@ -49626,7 +49626,7 @@
     "validity": 7,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 291.0,
       "USD": 37.25
@@ -49666,7 +49666,7 @@
     "validity": 10,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 416.0,
       "USD": 53.25
@@ -49706,7 +49706,7 @@
     "validity": 14,
     "dataCap": 2,
     "dataUnit": "GB",
-    "dataCapPer": "Daily",
+    "dataCapPer": "day",
     "prices": {
       "HKD": 582.0,
       "USD": 74.5
