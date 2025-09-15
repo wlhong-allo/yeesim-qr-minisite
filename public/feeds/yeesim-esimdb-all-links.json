@@ -222,6 +222,28 @@
     ]
   },
   {
+    "name": "Asia (12 areas)",
+    "link": "https://yeesim.co/en/products/esim-asia-12-areas?bg_ref=7rWYB6TmhW",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "CN",
+      "JP",
+      "KR",
+      "TH",
+      "MY",
+      "VN",
+      "SG",
+      "TW",
+      "HK",
+      "ID",
+      "MO",
+      "BD"
+    ]
+  },
+  {
     "name": "Turkey",
     "link": "https://yeesim.co/en/products/esim-turkey?bg_ref=7rWYB6TmhW",
     "type": "web",
@@ -659,14 +681,42 @@
     ]
   },
   {
-    "name": "African (25+ areas)",
+    "name": "Africa (25+ areas)",
     "link": "https://yeesim.co/en/products/esim-african-25-areas?bg_ref=7rWYB6TmhW",
     "type": "web",
     "targetLanguages": [
       "en"
     ],
     "targets": [
-      "AF"
+      "BW",
+      "BF",
+      "CF",
+      "TD",
+      "CI",
+      "CD",
+      "EG",
+      "SZ",
+      "GA",
+      "GH",
+      "GW",
+      "KE",
+      "LR",
+      "MG",
+      "MW",
+      "ML",
+      "MA",
+      "NE",
+      "NG",
+      "CG",
+      "RE",
+      "SN",
+      "SC",
+      "ZA",
+      "SD",
+      "TZ",
+      "TN",
+      "UG",
+      "ZM"
     ]
   },
   {
@@ -1014,6 +1064,94 @@
     ]
   },
   {
+    "name": "Europe (31 areas)",
+    "link": "https://yeesim.co/en/products/esim-europe-31-areas?bg_ref=7rWYB6TmhW",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AT",
+      "BE",
+      "BG",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "ES",
+      "EE",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MD",
+      "MT",
+      "NL",
+      "NO",
+      "PT",
+      "RO",
+      "RU",
+      "SK",
+      "SI",
+      "SE",
+      "UA"
+    ]
+  },
+  {
+    "name": "Europe (33 areas)",
+    "link": "https://yeesim.co/en/products/esim-europe-33-areas?bg_ref=7rWYB6TmhW",
+    "type": "web",
+    "targetLanguages": [
+      "en"
+    ],
+    "targets": [
+      "AT",
+      "BE",
+      "BG",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "ES",
+      "EE",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MD",
+      "MT",
+      "NL",
+      "NO",
+      "PT",
+      "RO",
+      "RU",
+      "SK",
+      "SI",
+      "SE",
+      "UA"
+    ]
+  },
+  {
     "name": "日本",
     "link": "https://yeesim.co/zh-tw/products/esim-japan?bg_ref=7rWYB6TmhW",
     "type": "web",
@@ -1233,6 +1371,28 @@
       "SG",
       "TH",
       "VN"
+    ]
+  },
+  {
+    "name": "亞洲（12地區）",
+    "link": "https://yeesim.co/zh-tw/products/esim-asia-12-areas?bg_ref=7rWYB6TmhW",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "CN",
+      "JP",
+      "KR",
+      "TH",
+      "MY",
+      "VN",
+      "SG",
+      "TW",
+      "HK",
+      "ID",
+      "MO",
+      "BD"
     ]
   },
   {
@@ -1558,14 +1718,14 @@
     ]
   },
   {
-    "name": "哥斯大黎加",
-    "link": "https://yeesim.co/zh-tw/products/esim-costa-rica?bg_ref=7rWYB6TmhW",
+    "name": "加拿大",
+    "link": "https://yeesim.co/zh-tw/products/esim-canada?bg_ref=7rWYB6TmhW",
     "type": "web",
     "targetLanguages": [
       "zh"
     ],
     "targets": [
-      "CR"
+      "CA"
     ]
   },
   {
@@ -1680,7 +1840,35 @@
       "zh"
     ],
     "targets": [
-      "AF"
+      "BW",
+      "BF",
+      "CF",
+      "TD",
+      "CI",
+      "CD",
+      "EG",
+      "SZ",
+      "GA",
+      "GH",
+      "GW",
+      "KE",
+      "LR",
+      "MG",
+      "MW",
+      "ML",
+      "MA",
+      "NE",
+      "NG",
+      "CG",
+      "RE",
+      "SN",
+      "SC",
+      "ZA",
+      "SD",
+      "TZ",
+      "TN",
+      "UG",
+      "ZM"
     ]
   },
   {
@@ -2025,6 +2213,94 @@
     ],
     "targets": [
       "TH"
+    ]
+  },
+  {
+    "name": "歐洲（31地區）",
+    "link": "https://yeesim.co/zh-tw/products/esim-europe-31-areas?bg_ref=7rWYB6TmhW",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AT",
+      "BE",
+      "BG",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "ES",
+      "EE",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MD",
+      "MT",
+      "NL",
+      "NO",
+      "PT",
+      "RO",
+      "RU",
+      "SK",
+      "SI",
+      "SE",
+      "UA"
+    ]
+  },
+  {
+    "name": "歐洲（33地區）",
+    "link": "https://yeesim.co/zh-tw/products/esim-europe-33-areas?bg_ref=7rWYB6TmhW",
+    "type": "web",
+    "targetLanguages": [
+      "zh"
+    ],
+    "targets": [
+      "AT",
+      "BE",
+      "BG",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "ES",
+      "EE",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MD",
+      "MT",
+      "NL",
+      "NO",
+      "PT",
+      "RO",
+      "RU",
+      "SK",
+      "SI",
+      "SE",
+      "UA"
     ]
   }
 ]
