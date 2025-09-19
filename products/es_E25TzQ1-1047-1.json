@@ -1,0 +1,12 @@
+{
+  "name": "Australia 10 Days (Unlimited/day)",
+  "order_no": "YS-1047R-1",
+  "validity": "60 days",
+  "iccid": "89852312558523669958",
+  "apn": "CTExcel",
+  "operator": "Optus",
+  "sm_dp_addr": "tgt.toprsp.com",
+  "activation_code": "1E567174CCB845489DA1D3F12EAB6BA3",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$tgt.toprsp.com$1E567174CCB845489DA1D3F12EAB6BA3",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=89852312558523669958&token=ikzpvs2ywyw9s21f"
+}
