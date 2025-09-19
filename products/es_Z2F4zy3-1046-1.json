@@ -1,0 +1,12 @@
+{
+  "name": "New Zealand 15 Days (Unlimited/day)",
+  "order_no": "YS-1046R-1",
+  "validity": "60 days",
+  "iccid": "8948010000066493735F",
+  "apn": "plus",
+  "operator": "Vodafone/Spark",
+  "sm_dp_addr": "esiminfra.toprsp.com",
+  "activation_code": "2E779266C5AE48D1B45C106F0C0F630C",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$esiminfra.toprsp.com$2E779266C5AE48D1B45C106F0C0F630C",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=8948010000066493735F&token=ddvcti229t1as62m"
+}
