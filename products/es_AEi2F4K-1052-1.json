@@ -1,0 +1,12 @@
+{
+  "name": "Mexico 7 Days (Unlimited/day)",
+  "order_no": "YS-1052R-1",
+  "validity": "60 days",
+  "iccid": "8997250230000486706F",
+  "apn": "internet / internetipv6",
+  "operator": "Mexico:Telcel/AT&T",
+  "sm_dp_addr": "esiminfra.toprsp.com",
+  "activation_code": "8B2E54A235A644FEA358E880CB760EC1",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$esiminfra.toprsp.com$8B2E54A235A644FEA358E880CB760EC1",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=8997250230000486706F&token=lyb0q1vp5bxhj5f9"
+}
