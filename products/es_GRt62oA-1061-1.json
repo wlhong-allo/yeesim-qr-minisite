@@ -1,0 +1,12 @@
+{
+  "name": "Dubai 10GB 10 Days",
+  "order_no": "YS-1061R-1",
+  "validity": "60 days",
+  "iccid": "89852342022317281979",
+  "apn": "cmhk",
+  "operator": "UAE：Etisalat/DU",
+  "sm_dp_addr": "rsp1.cmlink.com",
+  "activation_code": "AD2F7A519282476A91DAB3522C934557",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$rsp1.cmlink.com$AD2F7A519282476A91DAB3522C934557",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=89852342022317281979&token=okjtkc6m353e2w7n"
+}
