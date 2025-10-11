@@ -1,0 +1,12 @@
+{
+  "name": "Taiwan 10GB 5 Days",
+  "order_no": "YS-1068R-1",
+  "validity": "60 days",
+  "iccid": "89852342022316873578",
+  "apn": "cmhk",
+  "operator": "Chunghwa",
+  "sm_dp_addr": "rsp1.cmlink.com",
+  "activation_code": "FEC1CC8457704B099358676DE4E4E9DA",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$rsp1.cmlink.com$FEC1CC8457704B099358676DE4E4E9DA",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=89852342022316873578&token=lumtv8r3fz1skavq"
+}
