@@ -1,0 +1,12 @@
+{
+  "name": "Europe (31 areas) Total 5GB / 30 days",
+  "order_no": "YS-1089R-1",
+  "validity": "60 days",
+  "iccid": "89852342022377796148",
+  "apn": "cmhk",
+  "operator": "Austria:T-mobile / Orange (H3G)/A1 Belgium:Belgacom (Proximus) / Mobistar (Orange)/ Base Bulgaria:Yettel (Telenor)/MOBILTEL (A1) / Vivacom Croatia:T-mobile / A1 Hrvatska (Vipnet)/Telemach Cyprus:CYTA/MTN Cyprus Czech Republic:Vodafone / T-mobile/O2 Denmark:TDC / Telia/Telenor / Hi3G Estonia:Tele2 / Elisa EMT Finland:Ålands Telekommunikation / Elisa France:SFR / Orange/BOUYGUES Germany:Vodafone / Telefonica O2 Gibraltar:Gibtel Greece:Vodafone / Cosmote (T-mobile) / Wind Hellas Hungary:Telenor / Vodafone Iceland:Siminn/Vodafone Ireland:Meteor/3 Ireland (Hutchison) Italy:Vodafone / TIM/WIND / Iliad Latvia:Tele2/BITE Lithuania:BITE / UAB Tele2/Omnitel Luxembourg:TANGO / P&T(POST) / Orange Malta:Epic (Vodafone) / GO Netherlands:Vodafone / KPN Norway:Telia (Netcom) / Telenor/Telenor Poland:Orange / T-mobile/Polkomtel (Plus) / Orange / P4 Portugal:TMN / Optimus (NOS) / Vodafone / MEO Romania:Vodafone Slovakia:Telefonica O2 / Orange Slovensko Slovenia:Telekom / A1 (Si Mobile) / Telemach Spain:Orange / Telefonica / Xfera / Vodafone Sweden:Telenor / TeliaSonera/Hi3G Switzerland:Sunrise / SALT (Orange)/Sunrise Turkey:Turkcell United Kingdom:Vodafone / EE / Telefonica O2/ Hutchison",
+  "sm_dp_addr": "rsp1.cmlink.com",
+  "activation_code": "D62A313B50C14485A18C1E1561B61CDC",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$rsp1.cmlink.com$D62A313B50C14485A18C1E1561B61CDC",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=89852342022377796148&token=y9w34hre5vhnnpe0"
+}
