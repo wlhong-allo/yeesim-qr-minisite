@@ -1,0 +1,12 @@
+{
+  "name": "Japan Unlimited 7 days",
+  "order_no": "YS-1093R-1",
+  "validity": "60 days",
+  "iccid": "89852342022384792395",
+  "apn": "cmhk",
+  "operator": "KDDI / Softbank",
+  "sm_dp_addr": "rsp1.cmlink.com",
+  "activation_code": "D3B182419B6142B5978DC634017BF82D",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$rsp1.cmlink.com$D3B182419B6142B5978DC634017BF82D",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=&order=tv4LyVVCJnxrf79PpNV4JqdYs69i_Y7Yaehns6tkWXY"
+}
