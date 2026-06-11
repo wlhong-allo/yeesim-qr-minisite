@@ -1,0 +1,12 @@
+{
+  "name": "New Zealand 10GB / 10 days",
+  "order_no": "YS-1112R-1",
+  "validity": "60 days",
+  "iccid": "8948010000001765163F",
+  "apn": "plus",
+  "operator": "Vodafone/Spark",
+  "sm_dp_addr": "esiminfra.toprsp.com",
+  "activation_code": "A41EFB220F464601BAFF12D94E8FD118",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$esiminfra.toprsp.com$A41EFB220F464601BAFF12D94E8FD118",
+  "esim_info_url": ""
+}
