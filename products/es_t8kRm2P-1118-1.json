@@ -1,0 +1,12 @@
+{
+  "name": "Turkey Unlimited / 15 days",
+  "order_no": "YS-1118R-1",
+  "validity": "60 days",
+  "iccid": "8997250230001051564F",
+  "apn": "internet",
+  "operator": "AVEA /Vodafone",
+  "sm_dp_addr": "esiminfra.toprsp.com",
+  "activation_code": "ABD5D16817354F23924AFD361BEB9B3B",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$esiminfra.toprsp.com$ABD5D16817354F23924AFD361BEB9B3B",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=&order=HuaCwIbi4uHXMxDTUfz-PVTfuhvNH12Rm6wTHInzpnc"
+}
