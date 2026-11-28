@@ -1,0 +1,12 @@
+{
+  "name": "South Korea Unlimited / 5 days",
+  "order_no": "YS-1125R-1",
+  "validity": "60 days",
+  "iccid": "89852342022659350820",
+  "apn": "cmhk",
+  "operator": "LG/SKT",
+  "sm_dp_addr": "rsp1.cmlink.com",
+  "activation_code": "3DAEF840D7A64B7B96DF6384D77AADD1",
+  "iphone_install_url": "https://esimsetup.apple.com/esim_qrcode_provisioning?carddata=LPA:1$rsp1.cmlink.com$3DAEF840D7A64B7B96DF6384D77AADD1",
+  "esim_info_url": "https://cardinfo.gloableconnect.com/query/?key=&order=qh6Y9iMVN-is0ZqJDfsNz7FODUwLfjbfxN9nOVYoIfo"
+}
